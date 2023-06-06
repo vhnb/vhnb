@@ -1,8 +1,8 @@
-<h1 align="center">S</h1>
-<h3 align="center">A developer from Brazil</h3>
+<h1 align="center">Olá, sou Victor Henrique 😁</h1>
+<h3 align="center">SOu um programador iniciante!</h3>
 
 ### Habilidades 📝
-<div align="center" valign="top"><br>
+<div align="start" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -10,7 +10,7 @@
 </div><br>
 
 ### Redes 📲
-<div align="center">
+<div align="start">
   <a href="https://www.instagram.com/vnogz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/psycohnb"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
