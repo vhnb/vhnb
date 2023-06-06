@@ -1,20 +1,20 @@
 <h1 align="center">Olá, sou Victor Henrique 😁</h1>
 <h2 align="center">Sou um programador iniciante!</h2>
 
-<h4 align="center">Habilidades 📝</h4>
+<h3 align="center">Habilidades 📝</h3>
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<h4 align="center">Redes 📲</h4>
+<h3 align="center">Redes 📲</h3>
 <div align="center">
   <a href="https://www.instagram.com/vnogz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/psycohnb"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h4 align="center">Ferramentas 🔧</h4>
+<h3 align="center">Ferramentas 🔧</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FF8400">&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-111111?style=for-the-badge&logo=visual%20studio%20code&logoColor=0066FF">&nbsp;
