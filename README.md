@@ -21,4 +21,4 @@
 <img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF">&nbsp;
   </div>
 
-<h4 align="center">Feito por <a href="https://vhportfolio-xi.vercel.app">vitinho</a> 🖤</h4>
+<h5 align="center">Feito por <a href="https://vhportfolio-xi.vercel.app">vitinho</a> 🖤</h5>
