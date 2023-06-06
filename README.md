@@ -15,7 +15,7 @@
 </div>
 
 <h3 align="center">Ferramentas 🔧</h3>
-<div align="center">
+<div align="center" valign="top"><br>
 <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FF8400">&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-111111?style=for-the-badge&logo=visual%20studio%20code&logoColor=0066FF">&nbsp;
 <img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF">&nbsp;
