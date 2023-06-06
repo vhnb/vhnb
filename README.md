@@ -21,5 +21,4 @@
 <img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF">&nbsp;
   </div>
 
-<h3 align="center">Visitantes</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phpedro06&label=Profile%20views&color=0e75b6&style=flat" alt="phpedro06" /></p>
+<h4 align="center">Feito por vitinho 🖤</h4>
