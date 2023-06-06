@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Victor Henrique 😁</h1>
 <h3 align="center">Sou um programador iniciante!</h3>
 
-### <h3 align="center">Habilidades 📝</h3>
+### <h4 align="center">Habilidades 📝</h4>
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
