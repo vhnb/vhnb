@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Victor Henrique 😁</h1>
-<h3 align="center">SOu um programador iniciante!</h3>
+<h3 align="center">Sou um programador iniciante!</h3>
 
 ### Habilidades 📝
 <div align="start" valign="top"><br>
