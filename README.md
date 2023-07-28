@@ -10,7 +10,6 @@
 
 <h3 align="center">Redes 📲</h3>
 <div align="center" valign="top"><br>
-  <a href="https://www.instagram.com/vnogz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=#ff0494" target="_blank"></a>
   <a href="https://linktr.ee/psycohnb"><img src="https://img.shields.io/badge/-Gmail-111111?style=for-the-badge&logo=gmail&logoColor=#f54236" target="_blank"></a>
 </div>
 
