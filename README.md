@@ -7,6 +7,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div><br>
 
 <h3 align="center">Redes 📲</h3>
@@ -20,5 +21,3 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-111111?style=for-the-badge&logo=visual%20studio%20code&logoColor=0066FF">&nbsp;
 <img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=FFFFFF">&nbsp;
   </div>
-
-<h5 align="center">Feito por <a href="https://vhvictorhenrique.vercel.app" target="_blank">vitinho</a> 🖤</h5>
