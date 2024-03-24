@@ -3,7 +3,7 @@
 
 <h3 align="center">Habilidades 📝</h3>
 <div align="center" valign="top"><br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vim" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,sass" />
 </div><br>
 
 <h3 align="center">Redes 📲</h3>
