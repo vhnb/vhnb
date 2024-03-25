@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=111111&animation=fadeIn&rotate=-1&textBg=false" alt="wave effect" />
 <h1 align="start">Olá, sou Victor Henrique 😁</h1>
 <h2 align="start">Sou um programador front-end.</h2>
 <div align="start"> 
