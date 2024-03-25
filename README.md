@@ -11,3 +11,4 @@
 <div align="start" valign="top"><br>
   <img src="https://skillicons.dev/icons?i=figma,firebase,github," />
 </div>
+https://github-readme-stats.vercel.app/api/top-langs/?username=phbrg&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true%22
