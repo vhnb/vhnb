@@ -5,7 +5,7 @@
 </div>
 <h3 align="start">Habilidades 📝</h3>
 <div align="start" valign="top"><br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap,next" />
 </div>
 <h3 align="start">Ferramentas 🔧</h3>
 <div align="start" valign="top"><br>
