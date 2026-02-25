@@ -9,14 +9,14 @@
 
 ---
 
-### 🎓 Formação
+### Formação
 
 - **Ensino Médio Técnico** — FIAP School *(3 anos concluídos)*
 - **Bacharelado em Ciência da Computação** — FIAP *(em andamento)*
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 - 💻 Foco em **desenvolvimento front-end** com React e Next.js
 - 🎨 Gosto de unir **design e código** para criar boas experiências
@@ -39,4 +39,5 @@
 <div align="start"><br>
   <img src="https://skillicons.dev/icons?i=figma,firebase,github" />
 </div>
+
 
