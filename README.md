@@ -1,13 +1,43 @@
-<h1 align="start">Olá mundo! Sou Victor Henrique</h1>
-<h3 align="start">Desenvolvedor web front-end, atualmente estudando na FIAP School.</h3>
+<h1 align="start">Olá mundo! Sou Victor Henrique 👋</h1>
+<h3 align="start">Desenvolvedor web front-end apaixonado por criar interfaces modernas e funcionais.</h3>
+
 <div align="start"> 
-  <a href="https://www.linkedin.com/in/victor-henrique-405618284" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-henrique-405618284" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
-<h3 align="start">Tecnologias</h3>
-<div align="start" valign="top"><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,sass,bootstrap,next" />
+
+---
+
+### 🎓 Formação
+
+- **Ensino Médio Técnico** — FIAP School *(3 anos concluídos)*
+- **Bacharelado em Ciência da Computação** — FIAP *(em andamento)*
+
+---
+
+### 🚀 Sobre mim
+
+- 💻 Foco em **desenvolvimento front-end** com React e Next.js
+- 🎨 Gosto de unir **design e código** para criar boas experiências
+- 📚 Sempre aprendendo algo novo
+
+---
+
+### 🛠️ Tecnologias
+
+<div align="start"><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,svelte,sass,bootstrap" />
 </div>
-<h3 align="start">Outras ferramentas</h3>
-<div align="start" valign="top"><br>
-  <img src="https://skillicons.dev/icons?i=figma,firebase,github," />
+
+> *shadcn/ui* — ainda não disponível no skillicons, mas você pode adicionar o badge abaixo:
+
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+
+---
+
+### 🧰 Outras ferramentas
+
+<div align="start"><br>
+  <img src="https://skillicons.dev/icons?i=figma,firebase,github" />
 </div>
