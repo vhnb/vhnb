@@ -30,8 +30,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,svelte,sass,bootstrap" />
 </div>
 
-> *shadcn/ui* — ainda não disponível no skillicons, mas você pode adicionar o badge abaixo:
-
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 
 ---
@@ -41,3 +39,4 @@
 <div align="start"><br>
   <img src="https://skillicons.dev/icons?i=figma,firebase,github" />
 </div>
+
