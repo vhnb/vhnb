@@ -16,14 +16,6 @@
 
 ---
 
-### Sobre mim
-
-- 💻 Foco em **desenvolvimento front-end** com React e Next.js
-- 🎨 Gosto de unir **design e código** para criar boas experiências
-- 📚 Sempre aprendendo algo novo
-
----
-
 ### 🛠️ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -45,5 +37,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 
 
